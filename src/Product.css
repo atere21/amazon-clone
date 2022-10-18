@@ -11,6 +11,9 @@
     min-width: 100px;
 
 }
+.product__rating{
+    display: flex;
+}
 .product >img{
     max-height: 300px;
     width: 100%;
@@ -27,6 +30,7 @@
 .product__info{
     height: 100px;
     margin-bottom: 15px;
+    width: 100%;
 }
 .product__price{
     margin-top: 5px;
