@@ -24,5 +24,4 @@ function Product({ title, image, price, rating }) {
     </div>
   )
 }
-
 export default Product
